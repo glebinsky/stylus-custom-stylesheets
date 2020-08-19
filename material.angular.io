@@ -17,3 +17,9 @@ app-navbar .docs-navbar-header {
 .docs-api-property-description {
     color: hsla(0,0%,100%,.70);
 }
+
+.docs-api-class-export-name,
+.docs-api-class-selector-name,
+.docs-api-module-import {
+    background: hsl(0deg 0% 100% / 14%);    
+}
