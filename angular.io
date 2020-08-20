@@ -41,6 +41,7 @@ code-example[language=sh] {
 }
 
 .atn { color: #fb03fb; }
+.str,
 .atv { color: #f00; }
 .tag { color: #0088ff; }
 .com { color: #0f0; }
