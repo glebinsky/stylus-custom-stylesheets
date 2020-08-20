@@ -5,6 +5,7 @@ mat-sidenav-container .sidenav-content {
     background: #1f1e1e;
 }
 
+.mat-drawer-container,
 table tbody>tr>th,
 table thead>tr>th,
 h1, h2, h3, h4, h5, h6,
