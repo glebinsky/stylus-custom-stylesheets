@@ -49,5 +49,4 @@ code-example[language=sh] {
 .kwd { color: #ffe459; }
 .pln { color: inherit; }
 
-
 .alert.is-helpful, .is-helpful.callout { background: rgb(25 118 210 / 31%); }
