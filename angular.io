@@ -17,9 +17,9 @@ a, input, li, ol, p, ul {
     color: #fff;
 }
 
-code {
-    color: #17ff0b;
-}
+code { color: #17ff0b; }
+.member-name { color: #ffb327; }
+.write-only-property { color: #000; }
 
 .toc-inner ul.toc-list li.active *,
 .vertical-menu-item.selected,
@@ -48,5 +48,6 @@ code-example[language=sh] {
 .com { color: #0f0; }
 .kwd { color: #ffe459; }
 .pln { color: inherit; }
+.pun { color: #ffdfb5; }
 
 .alert.is-helpful, .is-helpful.callout { background: rgb(25 118 210 / 31%); }
